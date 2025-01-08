@@ -1,0 +1,307 @@
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.exe.config
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.exe
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.pdb
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Dapper.dll
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\System.Configuration.ConfigurationManager.dll
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Dapper.xml
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\System.Configuration.ConfigurationManager.xml
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.AssemblyReference.cache
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.Properties.Resources.resources
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.GenerateResource.cache
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.CoreCompileInputs.cache
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMu.1A7FBC11.Up2Date
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.exe
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.pdb
+R:\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormTaiKhoan.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.exe.config
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.exe
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.pdb
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Dapper.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Dapper.xml
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormTaiKhoan.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.Properties.Resources.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMu.1A7FBC11.Up2Date
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.exe
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.pdb
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.FormDangNhap.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.FormMain.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDanhMucVatTu.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDonViTinh.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormHocKy.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormLoaiVatTu.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormLop.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNamHoc.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNhanVien.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNhomVatTu.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormVatTu.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormPhieuNhap.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormPhieuMuon.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormPhieuTra.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Guna.UI2.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSPhieuMuon.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSPhieuNhap.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSPhieuTra.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSVatTu.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormChonPhieuMuonChuaTra.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormQuanLyTonKho.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNhapXuatTon.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormLichSuSuDung.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormTimKiem.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormBaoCaoNhapXuatTon.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\EnvDTE.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\stdole.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Reports\RptNhapXuatTon.rdlc
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\bin\Debug\Reports\RptBaoCaoVatTuChuaTra.rdlc
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormBaoCaoVatTuChuaTra.resources
+C:\Users\asus\Downloads\Dang Lam 2024-10-29 [23.26.58] 303.T3\QuanLyMuonTraVatTu\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormBaoCaoSoLanMuonVatTu.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Reports\RptBaoCaoVatTuChuaTra.rdlc
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Reports\RptNhapXuatTon.rdlc
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.exe.config
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.exe
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.pdb
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Dapper.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\EnvDTE.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\stdole.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\Dapper.xml
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\EnvDTE.xml
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.FormDangNhap.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.FormMain.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormBaoCaoNhapXuatTon.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormBaoCaoSoLanMuonVatTu.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormBaoCaoVatTuChuaTra.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormChonPhieuMuonChuaTra.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDanhMucVatTu.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDonViTinh.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSPhieuMuon.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSPhieuNhap.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSPhieuTra.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSVatTu.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormHocKy.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormLichSuSuDung.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormLoaiVatTu.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormLop.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNamHoc.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNhanVien.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNhapXuatTon.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNhomVatTu.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormPhieuMuon.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormPhieuNhap.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormPhieuTra.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormQuanLyTonKho.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormTaiKhoan.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormTimKiem.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormVatTu.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.Properties.Resources.resources
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMu.1A7FBC11.Up2Date
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.exe
+C:\Users\DELL\Downloads\QuanLyMuonTraVatTu2\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.pdb
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Reports\RptBaoCaoVatTuChuaTra.rdlc
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Reports\RptNhapXuatTon.rdlc
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.exe.config
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.exe
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\QuanLyMuonTraVatTu.pdb
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Dapper.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Guna.UI2.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.Common.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.Design.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Microsoft.SqlServer.Types.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\System.Configuration.ConfigurationManager.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\EnvDTE.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\stdole.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Microsoft.MSXML.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\Dapper.xml
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\System.Configuration.ConfigurationManager.xml
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\EnvDTE.xml
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.AssemblyReference.cache
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.FormDangNhap.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.FormMain.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormBaoCaoNhapXuatTon.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormBaoCaoSoLanMuonVatTu.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormBaoCaoVatTuChuaTra.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormChonPhieuMuonChuaTra.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDanhMucVatTu.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDonViTinh.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSPhieuMuon.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSPhieuNhap.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSPhieuTra.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormDSVatTu.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormHocKy.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormLichSuSuDung.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormLoaiVatTu.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormLop.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNamHoc.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNhanVien.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNhapXuatTon.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormNhomVatTu.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormPhieuMuon.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormPhieuNhap.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormPhieuTra.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormQuanLyTonKho.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormTaiKhoan.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormTimKiem.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.GUI.FormVatTu.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.Properties.Resources.resources
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.GenerateResource.cache
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.csproj.CoreCompileInputs.cache
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMu.1A7FBC11.Up2Date
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.exe
+L:\ĐO_AN\BaoCao\BaoCaoCN_110121047\QuanLyMuonTraVatTu\obj\Debug\QuanLyMuonTraVatTu.pdb

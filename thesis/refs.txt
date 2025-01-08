@@ -1,0 +1,14 @@
+1. Hướng dẫn cài đặt visual studio 2022: https://duythanhcse.wordpress.com/2022/02/08/huong-dan-tai-cai-dat-va-su-dung-visual-studio-2022/
+2. SQL Server Management Studio 21 Preview:
+https://learn.microsoft.com/en-us/sql/ssms/install/install?view=sql-server-ver16/
+3. Tìm hiểu về C#:
+https://www.vietjack.com/csharp/hoc_c_sharp_co_ban_nang_cao.jsp
+4. Lập trình windows form cơ bản cần những gì:
+https://codelearn.io/sharing/lap-trinh-windows-form-co-ban
+5. Hướng dẫn của Microsoft về cách làm việc với SQL Server từ C#: https://learn.microsoft.com/en-us/sql/connect/csharp/
+6. Bài viết tổng hợp kiến thức về SQL Server: 
+https://www.sqlshack.com/
+7. Tài liệu về thiết kế cơ sở dữ liệu SQL Server:
+ https://database.guide/
+8. Hướng dẫn xây dựng hệ thống quản lý vật tư: 
+https://www.codeproject.com/
